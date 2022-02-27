@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discovery of the blasphemous doctrine of familisme, first conceived and brought forth into the world by one Henry Nicolas of the Low Countries of Germany about an hundred years agoe; and now very boldly taught by one Mr. Randall, and sundry others in and about the citie of London. Whom multitudes of people follow, and which doctrine many embrace. The summe or briefe whereof is on the other side of the leafe set downe.</title>
+            <author>Etherington, John, fl. 1641-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84134</idno>
+            <idno type="STC">Wing E3382</idno>
+            <idno type="STC">Thomason E277_11</idno>
+            <idno type="STC">ESTC R200007</idno>
+            <idno type="EEBO-CITATION">99860809</idno>
+            <idno type="PROQUEST">99860809</idno>
+            <idno type="VID">112934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112934)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E277[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discovery of the blasphemous doctrine of familisme, first conceived and brought forth into the world by one Henry Nicolas of the Low Countries of Germany about an hundred years agoe; and now very boldly taught by one Mr. Randall, and sundry others in and about the citie of London. Whom multitudes of people follow, and which doctrine many embrace. The summe or briefe whereof is on the other side of the leafe set downe.</title>
+                  <author>Etherington, John, fl. 1641-1645.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons in Aldersgate-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur. Iohn Downham."</note>
+                  <note>P. 5 signed: John Etherington.</note>
+                  <note>Annotation on Thomason copy: "Aprill 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Familists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112934:1" rendition="simple:additions"/>
+            <p>A BRIEF DISCOVERY OF The Blaſphemous Doctrine of Familiſme, Firſt conceived and brought forth into the world by one HENRY NICO<g ref="char:EOLhyphen"/>LAS of the Low Countries of Ger<g ref="char:EOLhyphen"/>many about an hundred years agoe; And now very boldly taught by one M<hi rend="sup">r.</hi> 
+               <hi>Randall,</hi> and ſundry others in and about the Citie of <hi>London.</hi> Whom multitudes of people follow, and which Doctrine many embrace. The ſumme or briefe whereof is on the other ſide of the leafe ſet downe.</p>
+            <q>
+               <bibl>
+                  <hi>MATTH. 24.4.5.</hi>
+               </bibl>
+               <p>Take heed that no man deceive you: for many ſhall come in my name ſaying, I am Chriſt, and ſhall deceive many.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>Iohn Downam.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons</hi> in Alderſgate-ſtreet. 1645.</p>
+         </div>
+         <div type="summary">
+            <pb facs="tcp:112934:2"/>
+            <head>The ſumme or maine points of the Doctrine of H. N.</head>
+            <p n="1">
+               <hi>1.</hi> THat Chriſt is already come in his glory from the right hand of God to judge the quick and the dead.</p>
+            <p n="2">
+               <hi>2.</hi> That the great and laſt Trumpet now ſoundeth, and they that ſleep in Chriſt are raiſed from the dead; the ſting of death, which is ſin, taken away, and death ſwallowed up in victory.</p>
+            <p n="3">
+               <hi>3.</hi> That holineſſe, or the anointing of the holy Ghoſt, and the Sabbath, is Chriſt; and the ſin which they call the contrary anointing, and child of the Devill, is the Antichriſt.</p>
+            <p n="4">
+               <hi>4.</hi> That all the promiſes of God, and whatſoever is written and fore<g ref="char:EOLhyphen"/>told in the Scriptures, concerning the everlaſting Kingdome of Chriſt, and his Saints, becometh now in this preſent day of <hi>H. N.</hi> and his Fa<g ref="char:EOLhyphen"/>mily, fulfilled.</p>
+            <p n="5">
+               <hi>5.</hi> That the Seat or Throne of judgement whereon Chriſt ſitteth, is the communialty of the Family of Love, whereof <hi>H. N.</hi> is the oldeſt Fa<g ref="char:EOLhyphen"/>ther. And that he and they are Godded with God; and God manned with them.</p>
+            <p n="6">
+               <hi>6.</hi> That the way and manner of judging is by the new Evangelie of <hi>H.N.</hi> The parabolicall ſayings and myſticall ſentences which he hath written and publiſhed, and the Elders or perfect holy ones of the Family, hold forth to the world.</p>
+            <p>You ſhall have the own ſayings of <hi>H. N.</hi> word for word with his owne quotations of Scriptures (to read and conſider) in the following Diſcove<g ref="char:EOLhyphen"/>ry; whereupon you may the better diſcern and judge of things.</p>
+         </div>
+      </front>
+      <body>
+         <div type="charge">
+            <pb n="1" facs="tcp:112934:2"/>
+            <head>A briefe diſcovery of the blaſphe<g ref="char:EOLhyphen"/>mous Doctrine of Familiſme.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which occaſioned me to write and publiſh this Diſcovery, was ſome Doctrines delivered in a houſe within the Spittle-yard without Bi<g ref="char:EOLhyphen"/>ſhops-gate, neere <hi>London,</hi> by one Mr. <hi>Randoll,</hi> whom I was requeſted (by ſome friends) to heare. And obſerving the multitude of people that followed him, and how they were affected with his doctrine, which I did plainly perceive was the very grounds of Familiſme contained in the writings of <hi>H. N.</hi> I hereup<g ref="char:EOLhyphen"/>on thought good a little to inform the people therof; whereat ſome were much offended, and one mocked and ſaid, See what an old man here is, and what a child here is And I asked one of them, if he did be<g ref="char:EOLhyphen"/>lieve that the bodies of men which were dead and buried in the earth, ſhould be raiſed to life againe: and he anſwered me ſaying, I cannot tel. And I mentioning Chriſts reſurrection from the dead, one anſwered, Chriſt was not then a true man but onely God: and another affirmed, that he had known Chriſt after the fleſh. And I asked him when and where; but hee would give me no anſwer. Whereupon I ſaid, See how this people are taught. And a woman anſwered and ſaid unto me, I think if you did ſpeak with the Mini<g ref="char:EOLhyphen"/>ſter, you ſhould not find him of their mind. And I told her ſhe was deceived, he thought the ſame things. So I left them for that time.</p>
+            <p>And after this, I having a deſire to heare him yet more, and that the people ſhould be better informed, I came again, and brought with me five or ſix papers, wherein I had written theſe words fol<g ref="char:EOLhyphen"/>lowing:</p>
+            <p>
+               <hi>This Gentleman,</hi> Mr. Randall, <hi>doth delude the people with the deceit<g ref="char:EOLhyphen"/>full doctrine of Familiſme, which I will undertake to prove by the things he hath delivered; and that he therein doth pervert the ſtraight way of the Lord, and deſtroy the hope of the Saints, as much as in him lieth.</hi>
+            </p>
+            <p>And when his Sermon was ended, and that upon conſideration
+<pb n="2" facs="tcp:112934:3"/>
+of a point of doctrine he delivered, that a man baptized with the holy Ghoſt, knew all things, even as God knew all things, which himſelfe greatly admired as a deep myſtery, and likened it to the great Ocean, where there is no caſting Anchor, nor ſounding the bottome, I ſaid unto the people, This man hath many great words, and a great deale of deceit. And ſome of them being much diſplea<g ref="char:EOLhyphen"/>ſed, and moved with anger at my ſaying, I went down out of the houſe into the yard, and gave one of the forementioned papers un<g ref="char:EOLhyphen"/>to a man that was of Mr. <hi>Randals</hi> acquaintance, and requeſted him to give it him: and a friend of mine whom the man knew, told him, that we deſired to ſpeak with Mr. <hi>Randal.</hi> And about three or four dayes after, my friend ſpake with the man, whoſe name, (as I now underſtand) was Mr <hi>Cullumbeame,</hi> and asked him concerning the motion of ſpeaking with him, and he told him that Mr. <hi>Randall was</hi> very willing: and ſo they appointed the day and hour, and place of meeting to that purpoſe, w<hi rend="sup">ch</hi> was on Tueſday the week following, being the 25. of <hi>February,</hi> at two of the clock in the afternoon, and at the houſe of the ſaid Mr. <hi>Cullumbeame,</hi> a Grocer in <hi>Thames ſtreet, London.</hi> So at the day and houre appointed, I (with five or ſix of my acquaintance) came to the houſe, and ſtaid about the ſpace of two houres, waiting for Mr. <hi>Randall,</hi> but he came not. Then I having a paper, wherein I had written a few Arguments for proofe of the forementioned charge, I gave it to Mr. <hi>Cullumbeame,</hi> and wiſhed him to give it Mr. <hi>Randall,</hi> and requeſt him to give us his anſwer to the ſame in writing: and ſo we departed.</p>
+            <p>The Arguments were theſe following:</p>
+            <p n="1">1. Whoſoever ſhall teach and perſwade the people, that the per<g ref="char:EOLhyphen"/>fection and reſurrection ſpoken of by <hi>Paul,</hi> 1 <hi>Corinth.</hi> 15.51, 52, 53, 54, 55, 56, 57. <hi>Philip.</hi> 3.11, 12, 13, 14. <hi>Epheſ.</hi> 4.12.13. <hi>Heb.</hi> 6.1. (which in verſe 18. the Apoſtle calleth, <hi>The hope ſet before us,</hi> and deſcribeth through the reſt of the Epiſtle following, by the names of the true <hi>Tabernacle, which the Lord pitched, and not man, Heb.</hi> 8.2. <hi>Good things to come, &amp;c.</hi> chap. 9.11. <hi>An eternall inheri<g ref="char:EOLhyphen"/>tance,</hi> verſ. 15. <hi>An enduring ſubſtance,</hi> chap. 10.34. <hi>Great recompence of reward,</hi> verſ. 35. <hi>A Citie having foundations, whoſe builder and ma<g ref="char:EOLhyphen"/>ker is God,</hi> chap. 11.10. <hi>An heavenly countrey, and a Citie prepared of God,</hi> verſ. verſ. 16. <hi>A better reſurrection,</hi> v. 35. <hi>A kingdome which can<g ref="char:EOLhyphen"/>not be moved,</hi> chap. 12.28. <hi>A Citie to come,</hi> chap. 13.14.) are to bee attained in the fulneſſe and perfection of them, according to theſe
+<pb n="3" facs="tcp:112934:3"/>
+teſtimonies. Now in this preſent time, before the common death of the body, doth herein teach and perſwade to the deceitfull Do<g ref="char:EOLhyphen"/>ctrine of <hi>Familiſme,</hi> taught by <hi>Henry Nicholas,</hi> the principall Au<g ref="char:EOLhyphen"/>thor thereof, and ſo deludeth the people therewith.</p>
+            <p>But Mr. <hi>Randall</hi> doth ſo teach and perſwade, as ſundry perſons that heard him can witneſſe. Therefore he doth ſo delude with that deceit.</p>
+            <p n="2">2. Whoſoever ſhall teach and perſwade, that ſuch as are bapti<g ref="char:EOLhyphen"/>zed with the baptiſme of the holy Ghoſt, have from thenceforth nothing to doe with the Law, nor with the baptiſme of repentance which <hi>John</hi> preached, but away with the Law, and away with <hi>John Baptiſt</hi> from ſuch a one, doth herein pervert the ſtraight way of the Lord, not onely in denying the baptized with the baptiſme of the holy Ghoſt, the uſe of the Law of God to delight therein, and ſerve the ſame in his minde, as <hi>Paul</hi> ſaith, <hi>Rom.</hi> 7. but alſo in reject<g ref="char:EOLhyphen"/>ing the eſtate of a repentant broken contrite heart, whereof the Prophet <hi>Eſay</hi> ſpeaketh, ſaying, <hi>Caſt ye up, caſt ye up, prepare the way, take up the ſtumbling-block out of the way of my people: For thus ſaith the high and lofty, One, that inhabiteth eternity, whoſe name is</hi> Holy, <hi>I dwell in the high and holy place, with him alſo that is of a contrite and humble Spirit, to revive the ſpirit of the humble, and to revive the hearts of the contrite ones,</hi> Eſay 57.14.15. The repentant contrite heart being it which the holy Ghoſt purgeth and cleanſeth, comforteth and revi<g ref="char:EOLhyphen"/>veth daily; and the baptiſme of repentance, and the baptiſme of the holy Ghoſt being the parts of the new birth from above, wherein he that is born anew walketh, and goeth on daily, weeping and yet rejoycing, dying and yet living, ſowing in teares his pretious ſeed in an aſſured hope one day to reap in joy, and come to a Citie and Kingdome promiſed.</p>
+            <p>But Mr. <hi>Randall</hi> doth ſo teach and perſwade (as is aforeſaid:) Therefore he therein perverteth the ſtraight way of the Lord, as doth H. N. the Arch-Familiſt.</p>
+            <p n="3">3. Whoſoever ſhall teach and perſwade, that the things ſpoken of by <hi>Paul,</hi> 1 <hi>Cor.</hi> 51, 52, 53, 54, 55, 56, 57. are to be attained and fulfil<g ref="char:EOLhyphen"/>led now, in this preſent time in thoſe that are baptized with the ho-Ghoſt, doe thereby make Chriſt to be already come the ſecond time to ſuch, without ſin unto ſalvation, according to <hi>Heb.</hi> 9.28. Death to be ſwallowed up in victory, as 1 <hi>Cor.</hi> 15.54. according to <hi>Hoſea</hi> 13.14. The ſting of death, which is ſin, to be quite taken away.
+<pb n="4" facs="tcp:112934:4"/>
+And all the great and eternall promiſes to bee already fulfilled in them; and ſo deſtroy the hope of the Saints as touching the perſo<g ref="char:EOLhyphen"/>nall comming of Chriſt in his glory to judge the quick and the dead, and of the reſurrection of the bodies of the Saints, and of the king<g ref="char:EOLhyphen"/>dome, glory, and life everlaſting of body and loule hereafter to come, which the Scriptures ſo much ſpeak of, and all the Saints aſſu<g ref="char:EOLhyphen"/>redly look for.</p>
+            <p>But Mr. <hi>Randall,</hi> as well as H. N. the oldeſt Familiſt, doth ſo teach and perſwade: Therefore he as well as H. N. doth hereby deſtroy (as much as in him lieth) the hope of the Saints: And ſo the whole charge is fully proved.</p>
+            <p n="4">4. Whoſoever ſhall teach and affirme, that every creature in the firſt eſtate of creation, was God, becauſe they were made by the word of God, doth therein teach and affirme a very erroneous and blaſphemous thing. But Mr. <hi>Randall</hi> doth ſo teach and affirme: Therefore, &amp;c.</p>
+            <p>And although (as I confeſſe) he ſaid, miſtake me not, I doe not ſay the creature is the Creator, neither doe I ſay, Man is God; that were blaſphemy: for man is vanity, yea a lie, yet did not Mr. <hi>Randall</hi> hereby contradict his firſt doctrine: for if I ſhould ask him and ſay, Did God by his word make vanity, or a lie? No doubt he would anſwer and ſay, No. What is that man then which hee calls a lie, and vanity? Doubtleſſe he means man in his fall, and ſo the creature, though he denieth it to be the Creator, yet he denieth it not to be God, no more then he denieth the Word or Sonne of God to be God, becauſe he is not, nor can be the Father. This Mr. <hi>Randall</hi> counts not blaſphemy, but I affirme it is.</p>
+            <p>Neither becauſe the Father, the Word, and the holy Ghoſt is one God, are the Saints which are baptized with the holy Ghoſt, there<g ref="char:EOLhyphen"/>fore God alſo.</p>
+            <p>Neither becauſe they have the holy Ghoſt dwelling in them, doe they therefore know all things as God knoweth all things, as Mr. <hi>Randall</hi> taught and affirmed, according as <hi>H. N.</hi> hath done.</p>
+            <p n="5">5. Whoſoever ſhall preſume to turn the holy Writings and ſay<g ref="char:EOLhyphen"/>ing of <hi>Moſes</hi> and the Prophets, of Chriſt and his Apoſtles, and the proper names, perſons and things mentioned and contained therein, into allegories, and give them out to be the myſtery and ſpirituall meaning of the ſame, The holy Ghoſt in the writings or ſayings of <hi>Moſes</hi> and the Prophets, of Chriſt and his Apoſtles) having not
+<pb n="5" facs="tcp:112934:4"/>
+ſo done, nor left any rule or direction for it, doth therein preſume above that which is written; and ſo addeth to, and taketh from the ſayings, writings, and propheſies of the holy Scriptures, and de<g ref="char:EOLhyphen"/>ceiveth the people, themſelves alſo being deceived. But Mr. <hi>Randall</hi> as well as <hi>H. N.</hi> hath ſo done, as by the Sermons of the one, and the printed books of the other compared together, may appear. There<g ref="char:EOLhyphen"/>fore.</p>
+            <p>And ſo Sir, not to mention every thing delivered by you, againſt which juſt exception may be taken, wee deſire you to conſider of theſe things, and to give us your anſwer in writing. And beleeve us, we have not the leaſt thought of raiſing perſecution againſt you, as you perhaps or ſome other may think, nor of wronging you any kind of way: onely our deſire and end is, that the truth may bee known unto us all, and that we ſhould not delude, nor be deluded. And ſo I reſt your Chriſtian friend,</p>
+            <closer>
+               <signed>John Etherington.</signed>
+            </closer>
+            <postscript>
+               <p>Theſe were given to Mr. <hi>Randoll</hi> by the ſaid Mr. <hi>Cullumbeam,</hi> but hee returneth no anſwer, nor will, as ſome that are of his hearers, and inward with him, ſay, as from himſelfe.</p>
+            </postscript>
+         </div>
+         <div type="quotations_and_commentary">
+            <head>And now to the end all men may ſee that Mr. <hi>Randall</hi> is not wronged in the forementioned charge, I will here ſet down the own words of <hi>H.N.</hi> with his quota<g ref="char:EOLhyphen"/>tions, as they ſtand printed in his book intituled, <hi>The joyfull Meſſage of the Kingdome.</hi>
+            </head>
+            <p>As firſt in his Preface, where he hath theſe words:</p>
+            <q>
+               <p>COnſider on the time, O all yee people which love the truth of Jeſu Chriſt.</p>
+               <p>Preſently in this day of the love and of the appearing of the comming of our Lord Ieſu Chriſt in the reſurrection of the dead, wherein the Law,<note place="margin">Eſay 65. 1 Cor. 15.</note> the Prophets, and all what is written of Chriſt, becommeth fulfilled.</p>
+            </q>
+            <p>And in Chap. 1. he hath theſe words:</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>H.N.</hi>
+                  </bibl> Through the grace and mercy of God, and through the ho<g ref="char:EOLhyphen"/>ly Spirit of the love of Ieſu Chriſt, raiſed up by the higheſt
+<pb n="6" facs="tcp:112934:5"/>
+God from the death,<note place="margin">Iohn 6. Act. 17. Eph. 2. Rom. 8. Epheſ. 4. Ioh. 14. Apoc. 21. Iohn 1. 1 Iohn 1. Ier. 33. 1 Cor. 13. Apoc. 14. Eſay.</note> according to the providence of God, and his promiſes, anointed with the holy Ghoſt in the old age of the holy underſtanding of Ieſu Chriſt, Godded with God in the Spirit of his love, made heire with Chriſt in the heavenly goods of the riches of God, illuminated in the Spirit with the heavenly truth, the true light of the perfect being, elected to a Mi<g ref="char:EOLhyphen"/>niſter of the gracious word, which is now in the laſt time raiſed up by God according to his promiſes, in the moſt holy ſervices of God under the obedi<g ref="char:EOLhyphen"/>ence of his love, for to publiſh now in the laſt time, out of the ſame grace and heartie mercifulneſſe of God, and through the ſame holy Spirit of the love of Ieſu Chriſt, good tidings, or a joyfull meſſage of the Kingdome of God unto all people, &amp;c.</p>
+            </q>
+            <p>And in Sentence 9. of the ſame chapter he hath theſe words:</p>
+            <q>
+               <p>
+                  <note place="margin">Eſay 3. Matth. 24.25. Iude 1. Eſay 16. Acts 17. Zach. 8.</note>FOr behold in this preſent day the glorious comming of the Lord Ieſu Chriſt, with the many thouſands of his Saints, be commeth manifeſted, which hath ſet himſelfe now upon the Seat of his majeſty, for to judge in this ſame day which the Lord hath ordained or appointed, the whole world with equity and with faithfulneſſe, and truth, according to his righ<g ref="char:EOLhyphen"/>teouſneſſe.</p>
+               <p>For that cauſe, O all yee which dwell upon the earth, feare now the Lord the moſt higheſt, and give him alone all honour, laud, and praiſe: for the day of his judgement is now come:<note place="margin">Apoc. 14.</note> that it mought now in the ſame day of the true judgment of God and Chriſt,<note place="margin">Luke 22.</note> become all fulfilled in Chriſt, what<g ref="char:EOLhyphen"/>ſoever is written of him. <bibl>
+                     <hi>Sentence 10.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>And in chap. 34. (he having before from chap. 31. to this 34. ſpo<g ref="char:EOLhyphen"/>ken of the Catholick Church of <hi>Rome,</hi> of the Pope, Cardinals, Biſhops, Prieſts, Deacons, Sextons, Services, Ceremonies, &amp;c. and in great commendations of them for their time, untill con<g ref="char:EOLhyphen"/>tentions aroſe about them) ſaith here:</p>
+            <q>
+               <p>B<g ref="char:V">Ʋ</g>t the while now that the figurative Services and Ceremonies of the Chriſtians flouriſhed in their vigor, and that the diſcordable minds, out of the knowledge of the Scripture, did daily increaſe to a more intan<g ref="char:EOLhyphen"/>gling, with much contending and diſputation of Chriſt, and of his Ser<g ref="char:EOLhyphen"/>vices and Ceremonies. And that many good willing hearts which had great hunger and thirſt after the righteouſneſſe,<note place="margin">Matth. 5.</note> ſearched the Scriptures for to underſtand the truth and will of God,<note place="margin">Exod. 3. Pſal. 9.</note> and to live there<g ref="char:EOLhyphen"/>in, with great diligence and zeale, and ſighed, and prayed unto God. So bath God at laſt remembred the deſolate hearts, the ſighings and prayers
+<pb n="7" facs="tcp:112934:5"/>
+of the poore, and for his choſen ſake, (to the end that his truth and what his will is, mought before all lovers of the truth,<note place="margin">Matth. 24. Abac. 3. Acts 13. Ioh. 6. Acts 17. Rom. 8. 1 Cor. 6. 2 Cor. 4. Epheſ. 2. Ezek. 37. Iohn 17. 2 Pet. 1. Iohn 14. 2 Cor. 6. Apoc 21. Pſal. 45. &amp; 89. Eſay 16. Eſay 2. Ioel 2. Acts 2. Gen. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Matth. 24. Apoc. 14. Pſal 4. &amp; 68. Rom. 14. 2 Cor. 5. 2 Reg. 7. Pſal. 98. Eſai. 16. &amp; 32. &amp; 42. Ier. 23. &amp; 35. Acts 17.</note> be made manifeſt or decla<g ref="char:EOLhyphen"/>red, and the Scripture fulfilled) ſhortned the dayes according to his pro<g ref="char:EOLhyphen"/>miſes, and through the hearty mercifulneſſe of his love, wrought a great and wonderfull work upon earth out of his holy heaven, and raiſed up me <hi>H. N.</hi> the leaſt among the holy ones of God, which lay altogether dead and without breath and life among the dead, from the death, and made me a<g ref="char:EOLhyphen"/>live through Chriſt, as alſo anointed me with his godly being, manned him<g ref="char:EOLhyphen"/>ſelfe with me, and Godded me with him, to a living Tabernacle or Houſe for his dwelling, and a ſeat of his Chriſt the ſeed of <hi>David,</hi> to the end that his wonderfull works mought now in the laſt time be known, the light of his glory with full clearneſſe and inſtruction revealed, and the comming of his Kingdome to an Evangelie of the ſame Kingdome, and to the bleſſing of all generations of the earth, publiſhed in all the world, according to the Scriptures.</p>
+               <p>Behold and conſider my beloved, how wonderfully God worketh in his holy ones, and how that in this day or light of the love, the judgment ſeat of Christ is revealed and declared unto us out of heaven, to a righteous judge<g ref="char:EOLhyphen"/>ment upon earth, from the right hand of God. And how that on the ſame judgment ſeat of Chriſt, that the Scriptures mought be fulfilled, there ſit<g ref="char:EOLhyphen"/>teth one now in truth in the habitation of <hi>David,</hi> which judgeth uprightly, thinketh upon equity, and requireth righteouſneſſe.</p>
+               <p>Through him God will now in this day which he himſelfe hath appoin<g ref="char:EOLhyphen"/>ted, or ordained thereunto, judge the compaſſe of the earth with righte<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+               <p>In which this ſame day, or laſt time, namely in the perfection of the works of God, and in his righteous judgement the God of heaven hath now de<g ref="char:EOLhyphen"/>clared himſelfe and his Chriſt together with all his Saints, unto us his e<g ref="char:EOLhyphen"/>lect, and alſo made a dwelling with as, and brought even ſo unto us out of his holy Being, the moſt holy of his true Taberncle, with the fulneſſe of his garniſhing and ſpirituall heavenly riches, to an everlaſting faſt ſtanding Ieruſalem, and houſe for Gods dwelling, according to the Scriptures. The which is the very true undiſturbable Kingdome, full of all godly power, joy, and of all heavenly beautifulneſſe; wherein the laud of the Lord with fulneſſe of the eternall life and lovely ſweetneſſe is ſung from everlaſting to everlaſting. And wherein all mindes of pure hearts doe dwel, live and walk with freedome and Chriſtian triumph in all love.</p>
+               <p>This great day light of the moſt high God hath preſently in his righteous judgement ſhined about us, &amp;c. <bibl>
+                     <hi>Sent. 1, 2, 3, 4, &amp;c.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:112934:6"/>
+And in chap. 35, Sentence 8. theſe words:</p>
+            <q>
+               <p>
+                  <note place="margin">Eſay 26. Dan. 12. 4 Eſdr. 7. 1 Theſſ 4. Matth. 24 &amp; 25. Luke 17. Acts 1. Matth. 24. Apoc. 14.</note>BEhold, in this preſent day is this Scripture fulfilled, and accrrding to the teſtimony of the Scripture, the raiſing up and the reſurrection of the Lord, dead c mmeth alſo to paſſe preſently in this ſame day through the appearing of the comming of Chriſt in his majeſty; which reſurrection of the dead, ſeeing that the ſame is come unto us from Gods grace, we do like<g ref="char:EOLhyphen"/>wiſe in this preſent day to an Evangelie or joyfull meſsage of the kingdome of God, and Chriſt, publiſh in all the world under the obedience of the love.</p>
+               <p n="9">
+                  <hi>9.</hi> In which reſurrection of the dead God ſhoweth unto us that the time is now fulfilled,<note place="margin">Eſay 26. 1 Cor. 15. 1 Theſſ. 4.</note> that his dead, or the dead which are fallen aſleep in the Lord, riſe up in this day of his judgement, and appeare unto us in godly glory, which ſhall alſo from henceforth live in us everlaſtingly with Chriſt, and reigne upon the earth, wherein the Scripture becommeth fulfilled in this preſent day like as there ſtandeth written thereof,<note place="margin">Deut. 32.</note> The Lord ſhall judge his people &amp;c.</p>
+            </q>
+            <p>And in chapter 38. Sentence 2.</p>
+            <q>
+               <p>VVHerefore awake now all, lift up your heads, heare and ſee the wonderfull acts of God,<note place="margin">Matth. 24. Luk. 21. Cor. 15. Theſſ. 4.</note> and have regard unto the ſound of the laſt Trumpet, and conſider, the forefrunt of the true Tabernacle of God, wherein the beginning of the true God ſervice, and of the upright Chriſtian life, becometh erected, &amp;c.</p>
+            </q>
+            <p>So farre are <hi>H. N.</hi> his own words, with his quotations in the Margine.</p>
+            <p>And that he makes the anointing or ſanctification of the holy Ghoſt, which he calleth the perfection, holineſſe and the Sabbath, to be the Chriſt; and the contrary anointing the nature of ſinne, and child of the Devill, as he calls it, to be the Antichriſt which the Scripture ſpeaketh of, it is manifeſt by his owne words, Chap. 18. and ſundry other places of the book of his Evangely, wherein alſo many other matters of the like nature, all grounded on the fore<g ref="char:EOLhyphen"/>mentioned principles, are ſpoken by him, too many for me here to relate.</p>
+            <p>Compare now the Sermons of Mr. <hi>Randall</hi> and thoſe Doctrines of <hi>H. N.</hi> together, and you ſhall ſee how Mr. <hi>Randall</hi> (like a right diſciple of <hi>H. N.</hi>) followeth him therein.</p>
+            <p>And here you may ſee by the writings of <hi>H. N.</hi> before rehear<g ref="char:EOLhyphen"/>ſed, in what an allegoricall and myſticall ſenſe he expoundeth all
+<pb n="9" facs="tcp:112934:6"/>
+thoſe Scriptures, which he coats in the margent, making the coming of Chriſt in his glory, and his ſitting in the Throne of his glory ſpoken of, <hi>Matth.</hi> 24.30. and 25.31. the day of judgement, and ſounding of the laſt trumpet, ſpoken of alſo by <hi>Paul,</hi> 1 <hi>Cor.</hi> 15. 1 <hi>Theſ.</hi> 4. the reſurrection from the dead, and every thing elſe in the ſame places mentioned, the perfection, the incorruption, the ſalvation, and all what<g ref="char:EOLhyphen"/>ſoever the Scriptures have ſpoken concerning the everlaſting kingdome and glory of Chriſt and his Saints, now, in this preſent day of <hi>H.N.</hi> and his family of love, and in them, and by them, to become all fulfilled.</p>
+            <p>And now, This being their very doctrine (as their own words do plainly and often in their doubling kind of ſpeaking) declare, it neceſſa<g ref="char:EOLhyphen"/>rily followeth, that they who are fully poſſeſt with the belief thereof, neither have nor can have the leaſt hope or expectation of any other coming of Chriſt hereafter, of a perfection, of a reſurrection of the body, of an eternall life, ſalvation, glory, reſt, peace, paradiſe, city, kingdome to come.</p>
+            <p>And the caſe being ſo, that their hope and happineſſe is only here in this their new &amp; laſt day, as they ſpeak then it is beſt for them to rejoyce and be glad while their day laſteth, and deck themſelves here with Roſe buds before they be withered, to take their fill of pleaſure: as in youth to eat and drink, for to morrow they ſhall die, and all will be paſt.</p>
+            <p>And then what are all their pretended ſpirituall joyes, but meere fan<g ref="char:EOLhyphen"/>cies? A man that imbraceth all the pleaſures that this world can afford, and his carnall appetite ſhall deſire, is in as happy a caſe as they; for if the body being dead, ſhall riſe and live no more, nor the ſpirit after that have any ſenſe of his being or felicity, more then it had before the body was, or can now remember or think of that it ever had (which is alſo a point or conſequence of their doctrine) then <hi>Auguſtus Ceſar,</hi> that Pagan Emperor, who lived and raigned ſo long in wealth and glory in pompe and pleaſure, was a happier man far then any of them. And ſo all the great and glorious boaſtings of <hi>H.N.</hi> the high ſtile and manifold rare tiles, he aſcribeth to himſelf, will prove to be no better then blaſphemies againſt God and againſt Chriſt, and againſt the Holy Ghoſt; and all his ſweet intiſing words of his Evangely, and his pleaſing Allegories, though car<g ref="char:EOLhyphen"/>rying never ſo fair a ſhew of godlineſſe, to be nothing elſe but meere inchantments, to delude the minds, and feed the fancies of people.</p>
+            <p>And what are all his threatnings and ſentences of judegment and con<g ref="char:EOLhyphen"/>demnation he pronounceth againſt thoſe that reject his doctrine, but a devilliſh device to feare the people, himſelf being filled with the ſpirit of pride and high preſumption.</p>
+            <p>
+               <pb n="10" facs="tcp:112934:7"/>Beſides, if there be no other reſurrection nor ſalvation then what is now preſently, as H. N. ſaith, then what condemnation is there other, then what is alſo now preſently; and ſo when the body dieth, condem<g ref="char:EOLhyphen"/>nation endeth.</p>
+            <p>Therefore, let all true faithfull Chriſtians, whoſe hope is not here in this life only, but hereafter chiefly, conclude againſt this H. N. other<g ref="char:EOLhyphen"/>wiſe <hi>Henry Nicolas,</hi> that he was, and is a lyer, an Antichriſt, a blaſphe<g ref="char:EOLhyphen"/>mer, and ſo let him go.</p>
+            <p>And let Mr. <hi>Randall</hi> and all his hearers and followers take heed, and before-warn'd in time, (and not begin to frame arguments in their minds, and ſay, It is not M. <hi>Randall</hi> and we only that teach and entertain this doctrine of H. N. there have been and are, great Doctors of Divi<g ref="char:EOLhyphen"/>nity, ſo called, yea, and ſome great Peers, and Perſons of quality, and eſtate in this land, as elſewhere, that have taught and entertained the ſame with great affection, and high applauſe, I ſay, let them not reaſon thus: for although this be true, as I my ſelf do partly know, having had ſpeech with ſome of them forty yeeres ago, and ſundry times ſince, and with one great perſon ſeverall times, who plainly profeſſed the doctrine of H. N. and ſtood to maintain by argument, that every crea<g ref="char:EOLhyphen"/>ture is God, and that there was not a reſurrection of the body after the common death therof to be expected, whereupon I hearing him, and ſpeaking with him, ſaid, My Lord, out of all doubt, the whole doctrine of H.N. is a very blaſphemous deceit, and requeſted him to beware of it, and did what I could to inform him in the truth which I knew, and ſaid H. N. doth admit and will have it, that men may, and ſhall have wives and children in his reſurrection in a ſucceſſive manner continually, but Chriſt ſaith, that they which ſhall be counted worthy of that world to come, and of the reſurrection from the dead, neither marry nor are given in marriage, to which hee ſuddenly replyed, ſaying, no, they ſhall not marry, nor be given in marriage, they ſhall take them wives; and I pre<g ref="char:EOLhyphen"/>ſently anſwered, but Chriſt ſaith, they ſhall be as the Angels in heaven, whereunto he replyed not.</p>
+            <p>Now, what of all this? and that there have been Doctors, aed others that have taught the doctrine of H. N. as one D. <hi>Everet,</hi> one <hi>Shaw,</hi> and at this preſent one D. <hi>Gill,</hi> publikely in the midſt of this city of <hi>London,</hi> and one that went from hence to <hi>Redding, D. Pordage,</hi> who was in ex<g ref="char:EOLhyphen"/>pectation of (if he he hath not obtained) the chief publike place there; all whom I have both heard and ſpoken with, and know that they have uſually taught the ſame doctrine; although this be ſo, I ſay, and that
+<pb n="11" facs="tcp:112934:7"/>
+ſome of my own ſpeciall acquaintance, neer forty yeeres agoe fell un<g ref="char:EOLhyphen"/>to the ſame, yet is not all this a ſufficient argument to perſwade mee or any Chriſtian elſe to entertain or believe the doctrine. Nay, there is as great reaſon in that kinde for the Turks, and for Chriſtians alſo to be<g ref="char:EOLhyphen"/>lieve their <hi>Mahomet</hi> and his doctrine, as there is for me or any Chriſti<g ref="char:EOLhyphen"/>an elſe to believe this Dutchman <hi>Henry Nicolas</hi> and his doctrine.</p>
+            <p>Although I confeſſe, as touching my ſelf, I being in my youth zealouſ<g ref="char:EOLhyphen"/>ly affected, was very inquiſitive into thoſe ſeverall ſorts of Religions which I heard of, then profeſſed, &amp; was as apt naturally, as another to be ſeduced, ſome way or other from the truth, and had been, but that the Lord of his goodnes (he having of his free grace ſhewed mercy unto me in giving me repentance and forgiveneſs of my ſins) by the ſame grace kept me. And as touching this of H. N. eſpecially (praiſed be the Lord) I never had any the leaſt inclination in my mind toward it, but have al<g ref="char:EOLhyphen"/>ways ſince the time that I firſt ſaw into it, oppoſ'd the ſame as a very blaſ<g ref="char:EOLhyphen"/>phemous deceit, though I have bin by ſome very falſely charged with it.</p>
+            <p>And now, becauſe ſome may object and ſay, the Scriptures ſpeake plainly in ſome places of a perfection, and reſurrection, and of an en<g ref="char:EOLhyphen"/>trance into the reſt of God and everlaſting kingdom of Jeſus Chriſt, here in this preſent time, as <hi>Mat.</hi> 19.21. <hi>Phil.</hi> 3.15. <hi>Joh.</hi> 5.25. <hi>Heb.</hi> 4 3. <hi>Rev.</hi> 20.5.6. <hi>Col.</hi> 2.12. <hi>&amp;</hi> 3.1. 2 <hi>Pet.</hi> 1.11.</p>
+            <p>To this I anſwer and confeſſe it is true, that in the Spirit the faithfull have through faith an entrance into the eternall reſt of God &amp; kingdom of the Lord Jeſus Chriſt, and ſo are riſen from the dead, and live, and ſhall not come into condemnation, ſoul nor body, and this is called per<g ref="char:EOLhyphen"/>fection, the firſt reſurrection &amp; renovation ſpirituall, the firſt fruits of the Spirit, &amp;c. but this is not the perfection nor the reſurrection ſpoken of, <hi>Joh.</hi> 5.28. <hi>Joh.</hi> 6.39.40, 44. ſo <hi>Luk.</hi> 20.35. 1 <hi>Cor.</hi> 15.32. 1 <hi>Theſ.</hi> 4.16 <hi>Phil.</hi> 3.11. <hi>Heb.</hi> 6.1. Neither is this entrance into the reſt of God and king<g ref="char:EOLhyphen"/>dome of the Lord Jeſus Chriſt, the full poſſeſſion promiſed the Saints, and which they look for: But they preſſe hard toward the mark for the prize of the high calling of God in Chriſt Jeſus, looking unto that which is before them, and not caſting off any of the principles or begin<g ref="char:EOLhyphen"/>ings of Chriſt, as to ſay as Mr. <hi>Randall</hi> did, away with this, or away with that, nay, but only not to look upon them as if that were all, but to leave and forget them in that reſpect, as things behind, and yet nevertheleſſe, as <hi>Paul</hi> alſo ſaith, whereunto we have already attained, let us walk by one rule, &amp;c. <hi>Phil.</hi> 3.16. <hi>The prize of the high calling,</hi> being the full per<g ref="char:EOLhyphen"/>fection and poſſeſſion of all things promiſed, even <hi>the Crown of righte<g ref="char:EOLhyphen"/>ouſneſſe,</hi>
+               <pb n="12" facs="tcp:112934:8"/>
+concerning which <hi>Paul</hi> ſaith, <hi>I have fought a good fight, I have finiſhed my courſe, henceforth is laid up for me a crown of righteouſneſſe which the Lord the righteous Judge ſhall give me in that day, and not to me only, but unto them alſo that love his appearing,</hi> 2 Tim. 4.7.</p>
+            <p>And although the very perfection of the Law of God be now requi<g ref="char:EOLhyphen"/>red of the Snints, and that they are to ſet the ſame before them as a per<g ref="char:EOLhyphen"/>fect mark, as well in reſpect of the Spiritual intent thereof, as the literal to love and delight therein with their whole ſoule, and to keep it in the very perfection, not in part, or for an hour or day, but fully and continu<g ref="char:EOLhyphen"/>ally, yet do they not attain thereunto here, nor can, though D. G. one of the Doctors of Familiſme before mentioned hath very much laboured to prove, they may and can) but they ſigh and mourn, and weep, becauſe of their ſins, and daily failings, and would fain keep it perfectly, (this is the law of their mind through the ſpirit) but they have another law in their members, which leadeth them captive to the law of ſin and of death, and yet nevertheleſſe (they crying out againſt themſelves, bewailing the ſame, do aſſuredly believe that they ſhall be delivered from their body of ſin and death, as <hi>Paul</hi> ſaith, <hi>Rom.</hi> 7. the ſting of death which is ſin, ſhall be taken away, and death ſwallowed up in victory, when the Lord com<g ref="char:EOLhyphen"/>eth, as he alſo ſaith 1 <hi>Cor.</hi> 15. And as touching the coming of the Lord at the laſt day, it is not to be underſtood in a myſtical manner, in the Spi<g ref="char:EOLhyphen"/>rit onely, as H. N. would have it, as if Chriſt had left or quite put off his humane perſon; neither becauſe Chriſt hath been, is, and will be with his Church and choſen people to the end of the world, in reſpect of his Spirit according to his promiſe, to inſtruct, to guide, and comfort them, is the preſence of his Spirit, to be taken for this coming, nor the inſtru<g ref="char:EOLhyphen"/>ction, guidance, comfort of the Spirit (which the Apoſtle himſelf at that preſent time injoyed) the reſurrection he ſpeaks of, 1 <hi>Cor.</hi> 15. as H.N. and the teachers of Familiſme would have it; Nay, but the Lords coming ſhall be in a moſt open, manifeſt and glorious manner; ſo as that every eye ſhall ſee him, and all ſhall know him to be the very ſame man, Jeſus the Chiiſt that was crucified and pierced at Jeruſalem, he ſhall in perſon really and truly come, as the cleer Words of the Scripture ſpeak, <hi>Matth.</hi> 24.30 <hi>Rev.</hi> 1.7. and ſundry other places: and this reſurrection ſhall be alſo in a moſt plain and evident manner; all that are in the graves ſhall hear his voyce, and ſhall come forth, and that truly and really, as the Word ſaith, <hi>Joh.</hi> 5.28, 29. Then <hi>Abraham, Iſaac,</hi> &amp; <hi>Jacob,</hi> and all the ho<g ref="char:EOLhyphen"/>ly Fathers before them, and the holy children after them, which ſleep in the duſt of the earth, ſhall come forth out of their caves, tombs, graves,
+<pb n="13" facs="tcp:112934:8"/>
+and places where they have ſlept, each bone of every one ſhall come to his bone and ſinnes ſhall knit them together, skin ſhall cover them, breath ſhall enter into them, and they ſhall live and ſtand upon their feet according as <hi>Ezekiel</hi> propheſied 37. and as <hi>Paul</hi> teſtifieth 1 <hi>Cor.</hi> 15. 1 <hi>Theſ.</hi> 4. and alſo Chriſt himſelf, <hi>Rev.</hi> 20.12.13, 14.</p>
+            <p>And when the Lord Jeſus Chriſt, the Sonne of Man (for ſo hee ſti<g ref="char:EOLhyphen"/>leth himſelfe) ſhall indeed ſo come in his glory, and all his holy An<g ref="char:EOLhyphen"/>gels with him, as he hath ſaid, <hi>Matth.</hi> 25. <hi>Then ſhall he ſit in the Throne of his glory,</hi> even in that Throne whereof he ſpoke unto <hi>David,</hi> concer<g ref="char:EOLhyphen"/>ning him, ſaying, <hi>I will raiſe up thy ſeed after thee, which ſhall bee of thy ſonnes, and I will eſtabliſh his Kingdome, and he ſhall build me an houſe, and I will eſtabbiſh his throne for ever, I will be his father, and he ſhall be my ſon. And I will not take my mercy away from him as I took it away from him that was before thee. But I will ſettle him in my houſe, and in my kingdome for e<g ref="char:EOLhyphen"/>ver, and his throne ſhall bee eſtabliſhed for evermore,</hi> 1 <hi>Chron.</hi> 17.11, 12, 13, 14.</p>
+            <p>And again, <hi>Once have I have I ſworn by my Holineſſe, that I will not lie unto David, his ſeed ſhall endure for ever, and his throne as the Sunne before me, it ſhall endure for ever as the Moon, and as a faithfull witneſſe in heaven,</hi> Pſa. 89. According to which the holy Angel <hi>Gabriel</hi> ſpake unto his mo<g ref="char:EOLhyphen"/>ther <hi>Mary,</hi> ſaying, <hi>He ſhall be great, and ſhal be called the ſon of the higheſt, and the Lord God ſhall give unto him the throne of his father David, and he ſhall reigne over the houſe of Iacob for ever, and of his kingdome there ſhall be no end,</hi> Luke 1.32, 33.</p>
+            <p>And as God the Father will ſettle his Son Jeſus Chriſt in his Houſe and in his kingdome for ever, and in the throne of his father <hi>David,</hi> e<g ref="char:EOLhyphen"/>ven upon his holy hill of Sion, as he alſo ſaid, <hi>Pſal.</hi> 2. and eſtabliſh the ſame throne for evermore. So <hi>will he give unto him the he<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hen for his in<g ref="char:EOLhyphen"/>heritance, and the utmoſt ends of the earth for his poſſeſſion: hee ſhall breake them with a rod of iron, and daſh them in peeces like a Potters veſſell. He ſhall alſo have dominion from Sea to Sea, and from the river to the ends of the earth. They that dwell in the wilderneſſe ſhall bow before him, and the enemy ſhall lick the duſt: yea, all Kings ſhall fall downe before him, all Nations ſhall ſerve him,</hi> Pſa. 772.</p>
+            <p>What can be more plainly ſpoken then theſe things are? Theſe are no myſticall fantaſies, nor allegories of humane invention, as thoſe of H. N. are, but they are the moſt true Oracles of God.</p>
+            <p>Now at this preſent time Chriſt ſitteth in the throne of God the Fa<g ref="char:EOLhyphen"/>ther at his right hand in the heavens, reigning in the ſupreme kingdome
+<pb n="14" facs="tcp:112934:9"/>
+with him, and there he is to ſit and reigne yet a little while, till God hath put downe all enemies under his feet. And then at the laſt day when he commeth, he is to reſigne and deliver up the ſame unto God even the Father, as it is written, 1 <hi>Cor.</hi> 15. <hi>Pſa.</hi> 89. And then is he to take poſ<g ref="char:EOLhyphen"/>ſeſſion of his own kingdome and throne, which God the Father had promiſed and appointed unto him long agoe, even the throne &amp; king<g ref="char:EOLhyphen"/>dome of his Father <hi>David</hi> (it being Gods kingdome alſo) to reigne o<g ref="char:EOLhyphen"/>ver the houſe of <hi>Iacob</hi> for ever, as it was foretold, 1 <hi>Chron.</hi> 17. <hi>Luke</hi> 1.31, 32. Not in this corrupt world, where and while his enemies rule and reigne, but in that which is to come, when God ſhall have created new heavens, and a new earth, and wherein righteouſneſſe ſhall dwell for ever, according to his promiſe, <hi>Eſay</hi> 65.17. 2 <hi>Pet.</hi> 3.13. <hi>Rev.</hi> 21. For all enemies, even the laſt, which is mortality, and death of the body, and the ſting thereof which is ſin, ſhall then be deſtroyed, ſwallowed up in victory, &amp; taken away, <hi>All iniquity ſhall now ſtop it mouth,</hi> as the Scriptures teſtifie, 1 <hi>Cor.</hi> 15. <hi>Pſa.</hi> 117.42. And then alſo ſhall the Bride, the Lambs wife, even the holy Citie, the new Jeruſalem, appeare complete with all her children) in her perfect beauty, brightneſſe and glory, accord<g ref="char:EOLhyphen"/>ing as the Scriptures declare, <hi>Eſay</hi> 60. <hi>&amp;</hi> 62. <hi>Rev.</hi> 21. <hi>&amp;</hi> 22.</p>
+            <p>God wil create Iruſalem a rejoycing, and her people a joy; he will rejoyce in Ieruſalem, and joy in her children his people, the voyce of weeping ſhall be no more heard in her, nor the voyce of crying, <hi>Eſay</hi> 65.19. There ſhall be no more thence an infant of dayes, nor an old man that hath not filled his dayes, <hi>Eſay</hi> 65.20. There ſhall be no more mar<g ref="char:EOLhyphen"/>rying, nor giving in marriage, nor taking of wives, nor getting of chil<g ref="char:EOLhyphen"/>dren, neither ſhall they die any more, as H.N. would have it to be in his reſurrection. Nay, all theſe things will be paſſed away, as it is written, <hi>Luke</hi> 20.35.36. <hi>Rev.</hi> 21.4. God will now dwell in the midſt of his people, as in his own Tabernacle: and his Sanctuary alſo ſhall be in the midſt of them for evermore, as he hath ſpoken, <hi>Ezek.</hi> 37. <hi>Rev.</hi> 21. And they ſhall bee a treaſure in the hand of the Lord, a peculiar people, an holy nation, and a kingdome of Prieſts before him for ever, as it is alſo written, <hi>Exo.</hi> 19.5.6. And as it is given to the King, <hi>Pſa.</hi> 2. So hath he promiſed, and will give unto them power likewiſe, <hi>and they ſhall rule the nations with a rod of iron, and break them in peeces like a potters veſſel. Rev.</hi> 2.26.27. And as he overcame, and is ſitten down with his Father in his throne, ſo will he give them all that overcome, to ſit with him in his throne, <hi>Rev.</hi> 3.21. This for the preſent, and if farther occaſion ſhall re<g ref="char:EOLhyphen"/>quire, and oportunity ſerve, there may be yet a more full diſcovery.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
